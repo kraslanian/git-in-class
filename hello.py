@@ -1,2 +1,2 @@
 print("hi")
-ptint("ggg")
+print("ggg")
